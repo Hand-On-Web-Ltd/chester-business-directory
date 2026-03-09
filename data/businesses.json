@@ -1,0 +1,146 @@
+[
+  {
+    "name": "The Chef's Table",
+    "category": "Restaurants",
+    "description": "Fine dining in the heart of Chester with seasonal British menus.",
+    "address": "6 Music Hall Passage, Chester CH1 2EU",
+    "phone": "01244 403040",
+    "website": "https://example.com"
+  },
+  {
+    "name": "Sticky Walnut",
+    "category": "Restaurants",
+    "description": "Neighbourhood bistro serving European small plates.",
+    "address": "11 Charles St, Chester CH2 3AZ",
+    "phone": "01244 400400",
+    "website": "https://example.com"
+  },
+  {
+    "name": "Jaunty Goat Coffee",
+    "category": "Cafes",
+    "description": "Independent speciality coffee roasters with two Chester locations.",
+    "address": "56 Bridge Street, Chester CH1 1NQ",
+    "phone": "01244 348240",
+    "website": "https://example.com"
+  },
+  {
+    "name": "Chalk Coffee",
+    "category": "Cafes",
+    "description": "Cosy coffee shop near the cathedral with homemade cakes.",
+    "address": "50 Watergate St, Chester CH1 2LA",
+    "phone": "01244 349922",
+    "website": "https://example.com"
+  },
+  {
+    "name": "The Old Harkers Arms",
+    "category": "Pubs",
+    "description": "Canalside pub in a converted Victorian warehouse.",
+    "address": "1 Russell St, Chester CH3 5AL",
+    "phone": "01244 344525",
+    "website": "https://example.com"
+  },
+  {
+    "name": "Waterstones Chester",
+    "category": "Shops",
+    "description": "Three floors of books in a beautiful listed building on Bridge Street.",
+    "address": "67-69 Bridge St, Chester CH1 1NQ",
+    "phone": "01244 312220",
+    "website": "https://example.com"
+  },
+  {
+    "name": "Brown Horse Gallery",
+    "category": "Arts",
+    "description": "Contemporary art gallery and framing workshop.",
+    "address": "10 Rufus Court, Chester CH1 2HU",
+    "phone": "01244 320020",
+    "website": "https://example.com"
+  },
+  {
+    "name": "Chester Zoo",
+    "category": "Entertainment",
+    "description": "One of the UK's biggest zoos with over 35,000 animals.",
+    "address": "Moston Rd, Upton, Chester CH2 1LH",
+    "phone": "01244 380280",
+    "website": "https://www.chesterzoo.org"
+  },
+  {
+    "name": "The Grosvenor Hotel",
+    "category": "Hotels",
+    "description": "Luxury five-star hotel in the city centre.",
+    "address": "Eastgate, Chester CH1 1LT",
+    "phone": "01244 324024",
+    "website": "https://example.com"
+  },
+  {
+    "name": "Hand On Web",
+    "category": "Technology",
+    "description": "AI automation agency building chatbots, voice agents, and workflow tools for businesses.",
+    "address": "Riverside Innovation Centre, 1 Castle Dr, Chester CH1 1SL",
+    "phone": "+44 7471 487274",
+    "website": "https://www.handonweb.com"
+  },
+  {
+    "name": "Cybertill",
+    "category": "Technology",
+    "description": "Cloud-based retail management and EPoS systems.",
+    "address": "Sealand Rd, Chester CH1 4QN",
+    "phone": "01011 010101",
+    "website": "https://example.com"
+  },
+  {
+    "name": "Total Fitness Chester",
+    "category": "Sports",
+    "description": "Full-service gym with pool, classes, and personal training.",
+    "address": "Greyhound Park Rd, Chester CH1 4QN",
+    "phone": "01244 520520",
+    "website": "https://example.com"
+  },
+  {
+    "name": "Upstairs at the Grill",
+    "category": "Restaurants",
+    "description": "Relaxed steakhouse above the famous grill on Watergate Street.",
+    "address": "70 Watergate St, Chester CH1 2LA",
+    "phone": "01244 344883",
+    "website": "https://example.com"
+  },
+  {
+    "name": "Alexander's Chester",
+    "category": "Entertainment",
+    "description": "Live music venue and cocktail bar in Rufus Court.",
+    "address": "2 Rufus Court, Chester CH1 2HU",
+    "phone": "01244 340005",
+    "website": "https://example.com"
+  },
+  {
+    "name": "Hasbean Roastery",
+    "category": "Cafes",
+    "description": "Speciality coffee roasters supplying cafes across the UK.",
+    "address": "Unit 5, Bumpers Lane, Chester CH1 4LT",
+    "phone": "01011 010101",
+    "website": "https://example.com"
+  },
+  {
+    "name": "Lockwood Financial",
+    "category": "Financial",
+    "description": "Independent financial advisers based in Chester.",
+    "address": "12 Abbey Square, Chester CH1 2HU",
+    "phone": "01244 390000",
+    "website": "https://example.com"
+  },
+  {
+    "name": "Chester Wellness Centre",
+    "category": "Health",
+    "description": "Physiotherapy, sports massage, and rehabilitation.",
+    "address": "Boughton, Chester CH3 5BH",
+    "phone": "01244 350500",
+    "website": "https://example.com"
+  },
+  {
+    "name": "Looks Hair & Beauty",
+    "category": "Beauty",
+    "description": "Hair salon and beauty treatments in the city centre.",
+    "address": "45 Northgate St, Chester CH1 2HQ",
+    "phone": "01244 312000",
+    "website": "https://example.com"
+  }
+]
